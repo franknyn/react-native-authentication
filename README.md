@@ -4,7 +4,7 @@ Based on:
 * https://www.udemy.com/reactnative/
 * https://github.com/StephenGrider/ReactNativeCasts
 
--Simple Navigator example  
+-Simple Navigator example: https://medium.com/@dabit3/react-native-navigator-navigating-like-a-pro-in-react-native-3cb1b6dc1e30  
 -Parse Server as backend hosted on heroku: https://github.com/ParsePlatform/parse-server-example
 
 ### Install:
